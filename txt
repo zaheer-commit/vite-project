@@ -1,0 +1,79 @@
+<!-- function Login() {
+  return (
+    <div className="min-h-screen flex items-center justify-center bg-[#0f0f1e] px-4">
+      <div className="w-full max-w-md bg-[#1a1a2e] p-8 rounded-2xl shadow-2xl">
+        <h1 className="text-3xl font-bold text-white text-center mb-2">
+          خوش آمدید
+        </h1>
+        <p className="text-gray-400 text-center mb-8">
+          لطفاً وارد حساب کاربری خود شوید
+        </p>
+
+        <form className="space-y-5">
+          <div>
+            <label className="block text-gray-300 mb-2">نام کاربری</label>
+            <input
+              type="text"
+              placeholder="نام کاربری خود را وارد کنید"
+              className="w-full px-4 py-3 bg-[#0f0f1e] text-white rounded-lg border border-gray-700 focus:border-[#e86508] focus:outline-none transition"
+            />
+          </div>
+
+          <div>
+            <label className="block text-gray-300 mb-2">رمز عبور</label>
+            <input
+              type="password"
+              placeholder="رمز عبور خود را وارد کنید"
+              className="w-full px-4 py-3 bg-[#0f0f1e] text-white rounded-lg border border-gray-700 focus:border-[#e86508] focus:outline-none transition"
+            />
+          </div>
+
+          <div className="flex items-center justify-between text-sm">
+            <label className="flex items-center text-gray-400">
+              <input type="checkbox" className="mr-2 accent-[#e86508]" />
+              مرا به خاطر بسپار
+            </label>
+            <a href="#" className="text-[#e86508] hover:underline">
+              فراموشی رمز؟
+            </a>
+          </div>
+
+          <button
+            type="submit"
+            className="w-full bg-[#e86508] text-white py-3 rounded-lg font-semibold hover:bg-[#c85406] transition"
+          >
+            ورود
+          </button>
+        </form>
+
+        <p className="text-center text-gray-400 mt-6">
+          حساب کاربری ندارید؟{" "}
+          <a href="#" className="text-[#e86508] hover:underline">
+            ثبت‌نام کنید
+          </a>
+        </p>
+      </div>
+    </div>
+  )
+}
+
+export default Login -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <label>Name</label>
+                <input type="text" placeholder="Enter your name"></input>
+                <label>Email address</label>
+                <input type="email" placeholder="Enter your name"></input>
+                <label>Password</label>
+                <input type="password" placeholder="Enter your name"></input> -->
