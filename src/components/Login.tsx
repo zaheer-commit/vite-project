@@ -10,22 +10,15 @@ function Login()
                 <form className="space-y-4 md:mt-10 mt-20 font-sans font-medium">
                     <div>
                         <label className="text-black md:text-[14px] text-[20px]">Name</label>
-                        <input type="text" placeholder="Enter you name"
-                            className="w-full px-5 py-3 md:py-1 md:text-[12px] text-[16px] text-gray-600 rounded-lg border border-gray-700 focus:outline-none transition"/>
+                        <input type="text" placeholder="Enter you name" className="w-full px-5 py-3 md:py-1 md:text-[12px] text-[16px] text-gray-600 rounded-lg border border-gray-700 focus:outline-none transition"/>
                     </div>
                     <div>
                         <label className="text-black md:text-[14px] text-[20px]">Email address</label>
-                        <input
-                            type="email"
-                            placeholder="Enter you email"
-                            className="w-full px-5 md:text-[12px] text-[16px] py-3 md:py-1 text-gray-600 rounded-lg border border-gray-700 focus:outline-none transition"/>
+                        <input type="email" placeholder="Enter you email" className="w-full px-5 md:text-[12px] text-[16px] py-3 md:py-1 text-gray-600 rounded-lg border border-gray-700 focus:outline-none transition"/>
                     </div>
                     <div>
                         <label className="block text-black md:text-[14px] text-[20px]">Password</label>
-                        <input
-                            type="password"
-                            placeholder="Enter your password"
-                            className="w-full md:text-[12px] text-[16px] px-5 py-3 md:py-1 text-gray-600 rounded-lg border border-gray-700 focus:outline-none transition"/>
+                        <input type="password" placeholder="Enter your password" className="w-full md:text-[12px] text-[16px] px-5 py-3 md:py-1 text-gray-600 rounded-lg border border-gray-700 focus:outline-none transition"/>
                     </div>
                     <div className="flex items-center justify-between md:text-sm text-lg">
                         <label className="flex items-center text-gray-600">
@@ -41,7 +34,6 @@ function Login()
             </div>
             
         </div>
-        
     )   
 }
 export default Login
